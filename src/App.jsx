@@ -98,7 +98,7 @@ export default function App() {
   return (
     <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif', maxWidth: '800px', margin: '0 auto' }}>
       <h1 style={{ color: '#1f2937', textAlign: 'center', marginBottom: '0.5rem' }}>
-        Z-Viewer <span style={{ fontSize: '0.6em', color: '#10b981' }}>by @PressRealz</span>
+        Z-Viewer <span style={{ fontSize: '0.6em', color: '#10b981' }}>@PressRealz</span>
       </h1>
       <p style={{ textAlign: 'center', color: '#6b7280', marginBottom: '1.5rem' }}>
         See how private your Zcash really is — in one click.

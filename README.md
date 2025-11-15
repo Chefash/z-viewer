@@ -2,8 +2,8 @@
 
 **Instant Zcash Privacy Scoring – 100% Shielded Demo in One Click**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-10b981?style=for-the-badge&logo=vercel)](https://zviewer.netlify.app)
-[![Built for Gemini Bounty](https://img.shields.io/badge/Gemini_Bounty-Entry-3b82f6?style=for-the-badge)](https://gemini.com/bounty)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-10b981?style=for-the-badge&logo=netlify)](https://zviewer.netlify.app)
+[![Gemini Bounty](https://img.shields.io/badge/Gemini_Bounty-Entry-3b82f6?style=for-the-badge)](https://gemini.com/bounty)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ---
@@ -24,12 +24,11 @@
 | Feature | Status |
 |-------|--------|
 | **Privacy Score** (% of outputs shielded) | Complete |
-| **Interactive Chart** (privacy over time) | Complete |
-| **Scrollable Transaction List** (with color-coded outputs) | Complete |
-| **"Load Demo" Button** (100% shielded) | Complete |
+| **Interactive Chart** | Complete |
+| **Scrollable Transaction List** | Complete |
+| **"Load Demo" Button** | Complete |
 | **"Share on X" Button** | Complete |
-| **Mobile-Responsive UI** | Complete |
-| **Offline-First Demo** | Complete |
+| **Mobile-Responsive** | Complete |
 
 ---
 
@@ -57,7 +56,6 @@ A **fun, viral, educational privacy dashboard** that **works for everyone** — 
 - **Chart.js** – Beautiful charts
 - **Netlify** – Global CDN deploy
 - **Static Demo Data** – No API, no downtime
-- **Pure HTML/CSS/JS** – No backend, no keys, no risk
 
 ---
 
