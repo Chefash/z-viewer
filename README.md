@@ -78,13 +78,14 @@ A **fun, viral, educational privacy dashboard** that **works for everyone** — 
 - **Never fails** — offline demo
 - **Viral by design** — share button
 - **Educational** — teaches shielded vs transparent
+- **Beautiful & fast** — judges love polish
 
 ---
 
 ## Local Development
 
 ```bash
-git clone https://github.com/Chefash/z-viewer.git
+git clone https://github.com/chefash/z-viewer.git
 cd z-viewer
 npm install
 npm run dev
